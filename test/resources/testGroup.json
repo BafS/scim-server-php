@@ -1,4 +1,10 @@
 {
     "displayName": "testGroup",
-    "members": ["12345678-9012-3456-7890-12345678"]
+    "members": [
+        {
+            "value": "2819c223-7f76-453a-919d-413861904646",
+            "$ref": "https://example.com/v2/Users/2819c223-7f76-453a-919d-413861904646",
+            "display": "Babs Jensen"
+        }
+    ]
 }
